@@ -6,7 +6,7 @@ Desafio sobre conceitos do React-Native, para praticar os conhecimentos.
 
 ## Funções 
 
-Lista os repositórios utilisando o backend, e permite dar like neles.
+Lista os repositórios utilizando o [backend](https://github.com/JonathanKBP/conceitos-nodejs), e permite dar like neles.
 
 ## imagem
 
